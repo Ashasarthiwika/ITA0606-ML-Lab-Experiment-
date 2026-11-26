@@ -4,7 +4,8 @@
 
 Click the link below to open and run all 20 Machine Learning experiments in Google Colab.
 
-[**Open Machine Learning Lab Programs in Google Colab**](https://colab.research.google.com/drive/1ILA018Ri9JiGlYZRvbrYFPYaBTyOWNZ5#scrollTo=7807004f)
+[**Open Machine Learning Lab Programs in Google Colab**]
+https://colab.research.google.com/drive/1SU3PAuCRJkpCeY-LbPKQAHmrgieeJTKP
 
 ## Experiments
 
